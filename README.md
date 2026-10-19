@@ -6,4 +6,5 @@
 <ol>
   <li>Java, ambiente e arquitetura do projeto</li>
   <li>Classes e Objetos</li>
+  <li>ArrayList e Regras de Negócio</li>
 </ol>
