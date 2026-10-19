@@ -1,5 +1,9 @@
 <b>PROJETO CRUD EM JAVA</b>
 
-Objetivo: ensinar, passo a passo, a criação de um projeto completo (CRUD) em Java
+<b>Objetivo</b>: ensinar, passo a passo, a criação de um projeto completo (CRUD) em Java
 
-Etapas:
+<b>Etapas</b>:
+<ol>
+  <li>Java, ambiente e arquitetura do projeto</li>
+  <li>Classes e Objetos</li>
+</ol>
